@@ -24,3 +24,6 @@ Usage:
       $ ./rshell
       
   The CLI itself provides a full guide for rShell usage
+
+
+      \..{|[<->_<'>]|}../
