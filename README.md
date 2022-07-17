@@ -22,3 +22,5 @@ Usage:
   Just enter /path/to/repo/bin and type
   
       $ ./rshell
+      
+  The CLI itself provides a full guide for rShell usage
