@@ -19,7 +19,7 @@ Installation:
       
 Usage:
   
-  Just enter /path/to/repo/bin and type
+  Just cd into /path/to/repo/bin and type
   
       $ ./rshell
       
