@@ -15,11 +15,12 @@ Installation:
   Clone this repository into a folder.
   Good practice is to add the folder to your PATH:
     
-      $ export PATH="$PATH:/path/to/repo/bin"
+      $ export PATH="$PATH:/path/to/repo/bin/darwin"  # depending on 
+      $ export PATH="$PATH:/path/to/repo/bin/linux"   # your own system 
       
 Usage:
   
-  Just cd into /path/to/repo/bin and type
+  Just cd into /path/to/repo/bin/yourOS and type
   
       $ ./rshell
 
