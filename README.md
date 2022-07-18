@@ -22,6 +22,10 @@ Usage:
   Just cd into /path/to/repo/bin and type
   
       $ ./rshell
+
+  In some systems, you may need to get permission to execute
+
+      $ sudo chmod +x rshell
       
   The CLI itself provides a full guide for rShell usage
 
